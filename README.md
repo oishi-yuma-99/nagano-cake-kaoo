@@ -22,8 +22,7 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
-o
 
+くろくろ
 大藏が作業しました
 test
-
